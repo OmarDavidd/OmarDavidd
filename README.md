@@ -36,8 +36,5 @@ Aquí tienes algunos de mis proyectos más relevantes:
 
 - **[...](https://github.com/OmarDavidd)**
 
-## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=OmarDavidd&show_icons=true&theme=dark)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarDavidd&layout=compact&theme=dark)
