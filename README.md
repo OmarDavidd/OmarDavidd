@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=200&section=header&text=Hola,%20soy%20Davo&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=200&section=header&text=Hola,%20soy%20Omar&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&width=500&lines=Desarrollador+Full+Stack;Backend+%26+Mobile;Apasionado+por+el+código+limpio" alt="typing" />
+  <h3>Desarrollador Full Stack | Backend & Mobile</h3>
+  <p>Apasionado por construir soluciones útiles con código limpio.</p>
 </div>
 
 ## 👋 Sobre mí
 
-Soy **Davo**, estudiante de Licenciatura en Informática en Novauniversitas y desarrollador con enfoque en **backend, mobile y soluciones full stack**. Me gusta construir aplicaciones que combinen una lógica de negocio sólida con interfaces fluidas y bien pensadas para el usuario.
+Soy **Omar** (también me dicen **Davo**), estudiante de Licenciatura en Informática en Novauniversitas y desarrollador con enfoque en **backend, mobile y soluciones full stack**. Me gusta construir aplicaciones que combinen una lógica de negocio sólida con interfaces fluidas y bien pensadas para el usuario.
 
 Trabajo principalmente con **.NET** en el backend, **Flutter** en mobile y **React / Vue** en el frontend. También disfruto automatizar procesos, trabajar con bases de datos relacionales y aprender sobre buenas prácticas de arquitectura de software.
 
