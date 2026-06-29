@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Desarrollador Full Stack | Backend & Mobile</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&width=500&lines=Desarrollador+Full+Stack;Backend+%26+Mobile;Apasionado+por+el+c%C3%B3digo+limpio" alt="typing" />
 </div>
 
 ## 👋 Sobre mí
