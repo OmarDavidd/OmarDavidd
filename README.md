@@ -4,7 +4,6 @@
 
 <div align="center">
   <h3>Desarrollador Full Stack | Backend & Mobile</h3>
-  <p>Apasionado por construir soluciones útiles con código limpio.</p>
 </div>
 
 ## 👋 Sobre mí
