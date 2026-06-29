@@ -8,7 +8,7 @@
 
 ## 👋 Sobre mí
 
-Soy **Omar** (también me dicen **Davo**), estudiante de Licenciatura en Informática en Novauniversitas y desarrollador con enfoque en **backend, mobile y soluciones full stack**. Me gusta construir aplicaciones que combinen una lógica de negocio sólida con interfaces fluidas y bien pensadas para el usuario.
+Soy **Omar**, estudiante de Licenciatura en Informática en Novauniversitas y desarrollador con enfoque en **backend, mobile y soluciones full stack**. Me gusta construir aplicaciones que combinen una lógica de negocio sólida con interfaces fluidas y bien pensadas para el usuario.
 
 Trabajo principalmente con **.NET** en el backend, **Flutter** en mobile y **React / Vue** en el frontend. También disfruto automatizar procesos, trabajar con bases de datos relacionales y aprender sobre buenas prácticas de arquitectura de software.
 
