@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&width=500&lines=Desarrollador+Full+Stack;Backend+%26+Mobile;Apasionado+por+el+c%C3%B3digo+limpio" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&width=500&lines=Desarrollador+Full+Stack;Backend+%26+Mobile" alt="typing" />
 </div>
 
 ## 👋 Sobre mí
@@ -11,8 +11,6 @@
 Soy **Omar**, estudiante de Licenciatura en Informática en Novauniversitas y desarrollador con enfoque en **backend, mobile y soluciones full stack**. Me gusta construir aplicaciones que combinen una lógica de negocio sólida con interfaces fluidas y bien pensadas para el usuario.
 
 Trabajo principalmente con **.NET** en el backend, **Flutter** en mobile y **React / Vue** en el frontend. También disfruto automatizar procesos, trabajar con bases de datos relacionales y aprender sobre buenas prácticas de arquitectura de software.
-
-Actualmente busco oportunidades donde pueda aportar, seguir creciendo y crear productos con impacto real.
 
 ---
 
