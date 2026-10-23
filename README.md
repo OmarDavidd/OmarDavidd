@@ -1,86 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=200&section=header&text=Hola,%20soy%20Omar&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=160&section=header&text=Omar%20David&fontSize=42&fontColor=ffffff&desc=Backend%20.NET%20%C2%B7%20Mobile%20Flutter&descAlignY=72&animation=fadeIn" alt="Omar David — Backend .NET · Mobile Flutter" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C853&center=true&width=500&lines=Desarrollador+Full+Stack;Backend+%26+Mobile" alt="typing" />
+  <p><a href="https://www.linkedin.com/in/omar-david-garcia-ventura-31a677312/"><img src="https://img.shields.io/badge/LinkedIn-Omar%20David-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 </div>
 
 ## 👋 Sobre mí
 
-Soy **Omar**, estudiante de Licenciatura en Informática en Novauniversitas y desarrollador con enfoque en **backend, mobile y soluciones full stack**. Me gusta construir aplicaciones que combinen una lógica de negocio sólida con interfaces fluidas y bien pensadas para el usuario.
+Estudiante de Licenciatura en Informática en **Novauniversitas** (egreso en 2027). Construyo **APIs en .NET** y **apps móviles en Flutter**, y también trabajo en frontend con React y Vue.
 
-Trabajo principalmente con **.NET** en el backend, **Flutter** en mobile y **React / Vue** en el frontend. También disfruto automatizar procesos, trabajar con bases de datos relacionales y aprender sobre buenas prácticas de arquitectura de software.
+Me interesa la arquitectura de software: código que se entienda, se pruebe y se pueda mantener.
 
----
+## 🚀 Proyectos destacados
 
-## 🛠️ Tecnologías y Herramientas
+### 🎓 Wizer · [Backend](https://github.com/Wizer-App/wizer-backend) · [Frontend](https://github.com/Wizer-App/wizer-frontend)
+Plataforma escolar tipo aula virtual para gestionar clases, actividades y materiales. Principal contribuidor del backend y del frontend.
+<br/>`.NET` `C#` `React` `TypeScript`
 
-### Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+### 🛡️ HeraGuard · [Backend](https://github.com/HeraGuard/heraguard-backend/tree/dev) · [Mobile](https://github.com/HeraGuard/heraguard-frontend/tree/dev)
+App de cuidado para adultos mayores: recordatorios, medicamentos, citas y comunicación entre paciente, cuidador y doctor. Desarrollo en backend y mobile en equipo.
+<br/>`.NET` `C#` `Flutter` `Dart`
 
-### Frontend / Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+### 📚 [Atiora](https://github.com/OmarDavidd/atiora)
+App móvil para registrar lecturas, hábitos y notas, con estadísticas personales. Proyecto individual de principio a fin.
+<br/>`Flutter` `Dart`
 
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🎮 [Autelia](https://github.com/OmarDavidd/autelia) · [Jugar ahora](https://autelia.omard.space)
+Juego de supervivencia por oleadas en 2D. Se juega directo en el navegador.
+<br/>`Godot 4` `GDScript` `Web export` `Vercel`
 
-### DevOps / Herramientas
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🛠️ Stack
 
----
+<table align="center">
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express,ts" alt=".NET, C#, Node.js, Express, TypeScript" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Mobile y frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,astro" alt="Flutter, Dart, React, Vue, Astro" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Datos</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL, Supabase" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Herramientas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,git,vscode" alt="Docker, Linux, Git, VS Code" /></td>
+  </tr>
+</table>
 
-## 📁 Proyectos Destacados
-
-### 🛡️ HeraGuard
-Aplicación móvil de cuidado y seguimiento para adultos mayores. Incluye recordatorios, notificaciones, gestión de medicamentos, citas y comunicación entre paciente, cuidador y doctor.
-
-<div>
-  <a href="https://github.com/HeraGuard/heraguard-backend">
-    <img src="https://img.shields.io/badge/Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  </a>
-  <a href="https://github.com/HeraGuard/heraguard-frontend">
-    <img src="https://img.shields.io/badge/Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 📚 Atiora
-App móvil para seguimiento de lecturas y estadísticas personales. Permite registrar progreso, hábitos lectores y notas de lectura de forma simple y visual.
-
-<div>
-  <a href="https://github.com/OmarDavidd/atiora">
-    <img src="https://img.shields.io/badge/Repositorio-00C853?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🎓 Wizer
-Plataforma escolar tipo aula virtual para gestionar clases, actividades y materiales académicos de forma digital. Moderna, escalable y fácil de mantener.
-
-<div>
-  <a href="https://github.com/Wizer-App/wizer-backend">
-    <img src="https://img.shields.io/badge/Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  </a>
-  <a href="https://github.com/Wizer-App/wizer-frontend">
-    <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  </a>
-</div>
-
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:00C853&height=120&section=footer" alt="footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarDavidd/OmarDavidd/output/autelia-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarDavidd/OmarDavidd/output/autelia-light.svg" />
+    <img alt="Contribuciones del último año" src="https://raw.githubusercontent.com/OmarDavidd/OmarDavidd/output/autelia-dark.svg" />
+  </picture>
 </div>
