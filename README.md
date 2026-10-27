@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=160&section=header&text=Omar%20David&fontSize=42&fontColor=ffffff&desc=Backend%20.NET%20%C2%B7%20Mobile%20Flutter&descAlignY=72&animation=fadeIn" alt="Omar David — Backend .NET · Mobile Flutter" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarDavidd/OmarDavidd/main/assets/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarDavidd/OmarDavidd/main/assets/banner-light.svg" />
+    <img src="https://raw.githubusercontent.com/OmarDavidd/OmarDavidd/main/assets/banner-dark.svg" alt="o.davo_ — backend .net · mobile flutter" width="100%" />
+  </picture>
 
   <p><a href="https://www.linkedin.com/in/omar-david-garcia-ventura-31a677312/"><img src="https://img.shields.io/badge/LinkedIn-Omar%20David-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 </div>
